@@ -7,6 +7,9 @@
         <layout>Account-Account Layout Copy B</layout>
         <recordType>Account.RT_B</recordType>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Opp Layout Copy A</layout>
+    </layoutAssignments>
     <loginHours n1:nil="true" />
     <recordTypeVisibilities>
         <default>true</default>
