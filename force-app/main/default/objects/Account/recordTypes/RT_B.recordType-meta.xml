@@ -5,6 +5,6 @@
     <active>true</active>
     <businessProcess n1:nil="true" />
     <compactLayoutAssignment n1:nil="true" />
-    <description n1:nil="true" />
+    <description></description>
     <label>RT_B</label>
 </RecordType>

@@ -4,6 +4,10 @@
     <custom>false</custom>
     <description n1:nil="true" />
     <layoutAssignments>
+        <layout>Account-Account Layout Copy A</layout>
+        <recordType>Account.RT_A</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Account-Account Layout Copy B</layout>
         <recordType>Account.RT_B</recordType>
     </layoutAssignments>
