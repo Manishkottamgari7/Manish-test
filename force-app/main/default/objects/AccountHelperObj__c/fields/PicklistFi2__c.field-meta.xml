@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PicklistFi2__c</fullName>
+    <label>PicklistFi2</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>PicklistVal12</fullName>
+                <default>false</default>
+                <label>PicklistVal12</label>
+            </value>
+            <value>
+                <fullName>PicklistVal22</fullName>
+                <default>false</default>
+                <label>PicklistVal22</label>
+            </value>
+            <value>
+                <fullName>PicklistVal32</fullName>
+                <default>false</default>
+                <label>PicklistVal32</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- NewPick --></label>
+    <name>NewPick__c</name>
+    <picklistValues>
+        <masterLabel>NewFie1</masterLabel>
+        <translation><!-- NewFie1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>NewFie2</masterLabel>
+        <translation><!-- NewFie2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>NewFie3</masterLabel>
+        <translation><!-- NewFie3 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

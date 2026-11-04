@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>NewPick2__c</fullName>
+    <label>NewPick2</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>NewFie11</fullName>
+                <default>false</default>
+                <label>NewFie11</label>
+            </value>
+            <value>
+                <fullName>NewFie22</fullName>
+                <default>false</default>
+                <label>NewFie22</label>
+            </value>
+            <value>
+                <fullName>NewFie33</fullName>
+                <default>false</default>
+                <label>NewFie33</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
