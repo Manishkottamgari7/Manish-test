@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Lista de selecciónFi2</label>
+    <name>PicklistFi2__c</name>
+    <picklistValues>
+        <masterLabel>PicklistVal12</masterLabel>
+        <translation>Valor de lista de selección12</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PicklistVal22</masterLabel>
+        <translation>Valor de lista de selección22</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PicklistVal32</masterLabel>
+        <translation>Valor de lista de selección32</translation>
+    </picklistValues>
+</CustomFieldTranslation>
