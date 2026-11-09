@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>testRule</fullName>
+    <active>true</active>
+    <errorConditionFormula>testField1__c = &apos;true&apos;</errorConditionFormula>
+    <errorMessage>it is not true</errorMessage>
+</ValidationRule>

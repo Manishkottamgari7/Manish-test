@@ -8,11 +8,14 @@
         <recordType>Account.RT_A</recordType>
     </layoutAssignments>
     <layoutAssignments>
+=======
         <layout>Account-Account Layout Copy B</layout>
         <recordType>Account.RT_B</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opp Layout Copy B</layout>
+=======
+        <layout>Opportunity-Opp Layout Copy A</layout>
     </layoutAssignments>
     <loginHours n1:nil="true" />
     <recordTypeVisibilities>
